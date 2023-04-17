@@ -1,4 +1,4 @@
-This project was by a team of four within 24 hours during nWHacks Hackathon from Jan 21 to Jan 22 2023.
+This project was created by a team of four within 24 hours during nWHacks Hackathon from Jan 21 to Jan 22 2023.
 
 # StarStruck
 Presentation Deck: https://docs.google.com/presentation/d/1yu8TcZQCePRl-PzLrlx2w9vkJqQaWaa5RCZAUUwsPhQ/edit?usp=sharing
